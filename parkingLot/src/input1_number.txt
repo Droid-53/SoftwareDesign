@@ -1,0 +1,25 @@
+Car1 1
+Car2 1
+Car3 14
+Car4 14
+Car5 14
+Car6 6
+Car7 8
+Car8 14
+Car9 52
+Car10 26
+Car11 42
+Car12 52
+Car13 74
+Car14 15
+Car15 48
+Car16 24
+Car17 96
+Car18 41
+Car19 96
+Car20 74
+Car21 63
+Car22 58
+Car23 95
+Car24 63
+
